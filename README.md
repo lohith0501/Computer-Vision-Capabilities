@@ -1,4 +1,4 @@
-# Computer-Vision-Learnings
+# Computer-Vision-Abilities
 Capturing all my basic learning codes that i have practiced to understand abilities of cv.
 Includes:
 - Gray scaling
